@@ -1,0 +1,4 @@
+appName: go-pichelm-app
+replicas: 1
+image: go-pichelm-app
+tag: v1.0.0
